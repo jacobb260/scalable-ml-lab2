@@ -30,7 +30,7 @@ This creates a trade-off between:
 - **Budget per configuration** (how much resource each candidate gets), and  
 - **Number of configurations** (how many different candidates you try).
 
-If the budget per configuration is too small, you may miss good configurations. If it is too large, you waste resources training bad ones. :contentReference[oaicite:1]{index=1}
+If the budget per configuration is too small, you may miss good configurations. If it is too large, you waste resources training bad ones. 
 
 ### HyperBand: Mitigating the Budget–Configuration Trade-off
 
