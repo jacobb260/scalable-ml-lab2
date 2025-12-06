@@ -1,5 +1,5 @@
 # Lab2
-A UI with the trained model can be found here: https://huggingface.co/spaces/jacoblb/Iris 
+An UI with the trained model can be found here: https://huggingface.co/spaces/jacoblb/Iris 
 
 
 ---
