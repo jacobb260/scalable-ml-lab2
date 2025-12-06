@@ -1,0 +1,91 @@
+De första två/tre svaren under varje fråga är från modell 2. Temperature är satt väldigt lågt för att kunna utvärdera modellerna enklare. 
+
+Prompt: Is Sweden a country?
+
+Svar från modell 2: 
+Is Sweden a country? Yes, Sweden is a country. It is the largest country in Scandinavia and the third largest country in the Nordic countries. It is also the most densely populated country in Europe. The capital of Sweden is Stockholm and the largest city is Gothenburg. The official language of Sweden is Swedish. The currency of Sweden is the Swedish krona. The population of Sweden is approximately 10 million people. The official religion of Sweden is Lutheranism. The flag of Sweden is a red cross on a white
+
+Is Sweden a country? Yes, Sweden is a country. It is a Nordic country in Northern Europe. It is bordered by Finland to the east, Norway to the west, and the Baltic Sea to the north. The capital and largest city is Stockholm. Sweden is a constitutional monarchy with a parliamentary system of government. The official language is Swedish, but many people also speak English and other languages. Sweden is a highly developed country with a high standard of living. It is ranked as the world’s 10th most developed country
+
+Svar från modell 1a:
+Is Sweden a country?
+
+Is Sweden a country?
+
+Fråga från finetome: Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Svar från modell 2: 
+Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Svar från modell 1a:
+Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Explain the process of writing a program that determines the volume of a sphere when provided with its radius r. Additionally, implement a validation check to ensure r is a positive decimal number and handle potential exceptions with appropriate error messages.
+
+Fråga från finetome: Can you design a detailed lesson plan for an individual who wants to teach a beginner to solve the Rubik's cube? The plan should be structured into six distinct sessions, with each session focusing on a different aspect of the cube's mechanics, principles, algorithms, and patterns. Each session must challenge the student to think critically and use reasoning skills to advance their understanding of the cube's functionality, and build on previous sessions. The lessons must include visual aids, simulations, and interactive activities to help reinforce the student's comprehension of the topic.
+
+Svar från modell 2: 
+"Can you design a detailed lesson plan for an individual who wants to teach a beginner to solve the Rubik's cube? The plan should be structured into six distinct sessions, with each session focusing on a different aspect of the cube's mechanics, principles, algorithms, and patterns. Each session must challenge the student to think critically and use reasoning skills to advance their understanding of the cube's functionality, and build on previous sessions. The lessons must include visual aids, simulations, and interactive activities to help reinforce the student's comprehension of the topic."
+
+"Can you design a detailed lesson plan for an individual who wants to teach a beginner to solve the Rubik's cube? The plan should be structured into six distinct sessions, with each session focusing on a different aspect of the cube's mechanics, principles, algorithms, and patterns. Each session must challenge the student to think critically and use reasoning skills to advance their understanding of the cube's functionality, and build on previous sessions. The lessons must include visual aids, simulations, and interactive activities to help reinforce the student's comprehension of the topic."
+
+Svar från modell 1a:
+Can you design a detailed lesson plan for an individual who wants to teach a beginner to solve the Rubik's cube? The plan should be structured into six distinct sessions, with each session focusing on a different aspect of the cube's mechanics, principles, algorithms, and patterns. Each session must challenge the student to think critically and use reasoning skills to advance their understanding of the cube's functionality, and build on previous sessions. The lessons must include visual aids, simulations, and interactive activities to help reinforce the student's comprehension of the topic. The plan should also include a clear and logical progression of steps, with clear and concise instructions for each session.
+
+Can you design a detailed lesson plan for an individual who wants to teach a beginner to solve the Rubik's cube? The plan should be structured into six distinct sessions, with each session focusing on a different aspect of the cube's mechanics, principles, algorithms, and patterns. Each session must challenge the student to think critically and use reasoning skills to advance their understanding of the cube's functionality, and build on previous sessions. The lessons must include visual aids, simulations, and interactive activities to help reinforce the student's comprehension of the topic. The plan should also include a clear and logical progression of steps, with the final session focusing on the Rubik's cube's final position and solving patterns.
+
+
+Prompt: Is Norway a country?
+
+Svar från modell 2: 
+Is Norway a country? Yes, it is. It is a country with a population of 5.5 million people, a land area of 385,000 square kilometers, and a coastline of 1,600 kilometers. Norway is located in Northern Europe and is bordered by Sweden to the west, Finland to the east, Russia to the north, and the North Sea to the south. The capital and largest city is Oslo, which is also the country's political, economic, and cultural center.
+Norway is a
+
+Is Norway a country? Yes, it is. It is a country with a population of 5.4 million people, a land area of 385,000 square kilometers, and a capital city of Oslo. Norway is located in Northern Europe, and it is bordered by Sweden to the west, Finland to the east, Russia to the north, and the North Sea to the south. The country is known for its natural beauty, rich history, and vibrant culture. Norway is also home to some of the world's most
+
+Svar från modell 1a:
+Is Norway a country?
+
+Is Norway a country?
+
+Prompt: Can you solve x^2 + 2x + 3 = 0? 
+
+Svar från modell 2: 
+Can you solve x^2 + 2x + 3 = 0? 
+
+Can you solve x^2 + 2x + 3 = 0?  (a) 1 (b) 2 (c) 3 (d) 4
+
+Svar från modell 1a:
+Can you solve x^2 + 2x + 3 = 0?  If yes, what is the value of unknown variable x?  Can you provide a step-by-step explanation of the process that led to the answer?
+
+Can you solve x^2 + 2x + 3 = 0?  If yes, what is the value of unknown variable x?  If not, can you explain the reasoning process that led to the answer?
+
+Prompt: Can you solve 2x = 4? 
+
+Svar från modell 2: 
+Can you solve 2x = 4? 2x = 8? 2x = 10? 2x = 12? 2x = 14? 2x = 16? 2x = 18? 2x = 20? 2x = 22? 2x = 24? 2x = 26? 2x = 28? 2x = 30? 2x = 32? 2x = 34? 2
+
+Can you solve 2x = 4? 2x = 8? 2x = 10? 2x = 12? 2x = 14? 2x = 16? 2x = 18? 2x = 20? 2x = 22? 2x = 24? 2x = 26? 2x = 28? 2x = 30? 2x = 32? 2x = 34? 2
+
+Svar från modell 1a:
+Can you solve 2x = 4?
+
+Can you solve 2x = 4?
+
+Prompt: Write a short poem
+
+Svar från modell 2: 
+Write a short poem about the history of the United States.
+The United States of America is a country located in North America. It is bordered by the Atlantic Ocean to the east, the Pacific Ocean to the west, Canada to the north, and Mexico to the south. The country is divided into 50 states, which are further divided into counties, cities, and towns. The capital and largest city of the United States is Washington, D.C. The United States is a federal republic, which means that it is governed
+
+Write a short poem about the history of the United States.
+The United States of America is a country located in North America. It is bordered by the Atlantic Ocean to the east, the Pacific Ocean to the west, Canada to the north, and Mexico to the south. The country's capital and largest city is Washington, D.C., and its most populous city is New York City. The United States is the world's third largest economy by nominal GDP and the fourth largest by purchasing power parity. The United States is also
+
+Svar från modell 1a
+Write a short poem about the concept of love.
+
+Write a short poem about the concept of love.
